@@ -14,12 +14,12 @@
         Teal: hsl(174, 63%, 62%)
         Mantis: hsl(88 , 50% , 53%)
   */
-  --first-hue: 285;
+  --first-hue: 133;
   --sat: 92%;
   --lig: 65%;
   --second-hue: 219;
   /* --first-color: hsl(var(--first-hue), var(--sat), var(--lig)); */
-  --first-color: #810CA8;
+  --first-color: #a83d0c;
   --first-color-alt: hsl(var(--first-hue), var(--sat), 49%); /* -4% */
   --title-color: hsl(var(--second-hue), 15%, 95%);
   --text-color: hsl(var(--second-hue), 8%, 75%);
